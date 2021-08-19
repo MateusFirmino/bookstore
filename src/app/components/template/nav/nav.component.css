@@ -1,0 +1,19 @@
+.container {
+  height: 85%;
+}
+
+i {
+  padding-right: .6rem;
+}
+
+.side {
+  width: 12%;
+}
+
+mat-nav-list {
+  justify-content: center;
+}
+
+.nav {
+  width: 50%;
+}

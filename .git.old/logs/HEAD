@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 af1bb1ff1d5128fc1c6ca0322930c0446423ddd6 Mateus Augusto <mateusfirmino1@hotmail.com> 1628690275 -0400	commit (initial): initial commit
+af1bb1ff1d5128fc1c6ca0322930c0446423ddd6 f0e47e94b2dc466adfbb92c3eb5d6d4341d1e07c MateusFirmino <mateusfirmino1@hotmail.com> 1628694539 -0400	commit: Angular material instalado no projeto
+f0e47e94b2dc466adfbb92c3eb5d6d4341d1e07c f06996fdcdb6a3fe2f5672083614a4fe7cafda99 MateusFirmino <mateusfirmino1@hotmail.com> 1628707028 -0400	commit: Implementações gráficas, pagina inicial
+f06996fdcdb6a3fe2f5672083614a4fe7cafda99 0b52b927ce0cc04863a9cb391f934511b921e99a MateusFirmino <mateusfirmino1@hotmail.com> 1628708291 -0400	commit: Ajuste gráfico
+0b52b927ce0cc04863a9cb391f934511b921e99a 1353660d2f548a58902a7728996f001fc6ee46f1 MateusFirmino <mateusfirmino1@hotmail.com> 1628790323 -0400	commit: Home implementado com rota
+1353660d2f548a58902a7728996f001fc6ee46f1 44032c2134465de24a84c7a82c58da7d5e95027a MateusFirmino <mateusfirmino1@hotmail.com> 1628880216 -0400	commit: Ajustes no component-read
+44032c2134465de24a84c7a82c58da7d5e95027a 2ee48468206566bce82718248532bfaa396bc1f1 MateusFirmino <mateusfirmino1@hotmail.com> 1628881712 -0400	commit: Criação do categoria-create
+2ee48468206566bce82718248532bfaa396bc1f1 d56689bc25c0c6defd1fcd01f0cc5c8eaac15145 MateusFirmino <mateusfirmino1@hotmail.com> 1629134671 -0400	commit: Metodo CREATE implementado para Categoria
+d56689bc25c0c6defd1fcd01f0cc5c8eaac15145 765f76545c7145bc4a33cce33cfdaa3b7dd2db14 MateusFirmino <mateusfirmino1@hotmail.com> 1629135035 -0400	commit: Finalizando o método CREATE implementado para Categoria
+765f76545c7145bc4a33cce33cfdaa3b7dd2db14 6a71fd02c658b20295a404490a230050b601a8e7 MateusFirmino <mateusfirmino1@hotmail.com> 1629140778 -0400	commit: Implementando Categoria-Delete
+6a71fd02c658b20295a404490a230050b601a8e7 5835220d0ed9f7caf16b5ab005c2583348481ce5 MateusFirmino <mateusfirmino1@hotmail.com> 1629289030 -0400	commit: Categoria DELETE implementada
+5835220d0ed9f7caf16b5ab005c2583348481ce5 bb6b58bcb8ef21198bf6d45576f6ab1bd2a043d1 MateusFirmino <mateusfirmino1@hotmail.com> 1629294527 -0400	commit: UPDATE para Categoria foi implementado
+bb6b58bcb8ef21198bf6d45576f6ab1bd2a043d1 3d6d159c61dd3c186d305d736b256118b24eb48e MateusFirmino <mateusfirmino1@hotmail.com> 1629312653 -0400	commit: Leitura de todos os livros por categoria implementado
+3d6d159c61dd3c186d305d736b256118b24eb48e 91188d3baaa6470e8b69d44276ce5a17571ed448 MateusFirmino <mateusfirmino1@hotmail.com> 1629316864 -0400	commit: CREATE de Livro implementado
+91188d3baaa6470e8b69d44276ce5a17571ed448 a201f833bb6a5254e622f7ae0962a5788224342d MateusFirmino <mateusfirmino1@hotmail.com> 1629375829 -0400	merge origin/master: Fast-forward
